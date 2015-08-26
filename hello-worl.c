@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+// Method that destroys the world
+void destroyWorld() {
+	printf("BOOOOM");
+}
+
 int main(int argc, void * argv) {
 	printf ("Hello world");
 	// First of all : create a new world
@@ -13,7 +18,7 @@ int main(int argc, void * argv) {
 	// Some tribes begin to disappear
 	
 	// Make some stuff to destroy the world
-	
+	destroyWorld();
 	// Here the world is completely destroyed. Program ends, due to the lack of a computer to run on
 	printf ("Good bye cruel world");
 }
