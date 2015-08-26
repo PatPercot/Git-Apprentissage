@@ -7,7 +7,7 @@ void destroyWorld() {
 
 // Method that populates the world
 void populateWorld() {
-	printf("Populate");
+	printf("Populate the world with humans");
 }
 
 int main(int argc, void * argv) {
