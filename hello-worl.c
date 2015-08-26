@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Method that destroys the world
 void destroyWorld() {
 	printf("BOOOOM");
 }
