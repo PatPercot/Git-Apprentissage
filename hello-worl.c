@@ -6,7 +6,7 @@ void destroyWorld() {
 }
 
 // Method that populates the world
-void poplate() {
+void populateWorld() {
 	printf("Populate");
 }
 
@@ -15,7 +15,7 @@ int main(int argc, void * argv) {
 	// First of all : create a new world
 	
 	// Populate the world with humans
-	poplate();
+	populateWorld();
 	// Humans begin to build some things
 	
 	// Humans of different tribes begin to fight 
