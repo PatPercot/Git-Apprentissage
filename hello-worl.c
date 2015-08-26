@@ -5,12 +5,17 @@ void destroyWorld() {
 	printf("BOOOOM");
 }
 
+// Method that populates the world
+void poplate() {
+	printf("Populate");
+}
+
 int main(int argc, void * argv) {
 	printf ("Hello world");
 	// First of all : create a new world
 	
 	// Populate the world with humans
-	
+	poplate();
 	// Humans begin to build some things
 	
 	// Humans of different tribes begin to fight 
