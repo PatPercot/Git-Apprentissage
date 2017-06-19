@@ -1,1 +1,5 @@
-Test
+Test pour savoir si l'on peut récupérer un pull request dans une nouvelle branche.
+
+Exemple :
+Je vais Pull Request cette modification vers la branche Master de PatPercot.
+Il va essayé de changer la branche de réception par une nouvelle.
